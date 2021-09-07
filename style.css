@@ -1,0 +1,26 @@
+
+body {
+    background-color: rgb(218, 212, 212);
+}
+#VSC1 
+{
+    text-align: center;
+    text-decoration: orange;
+}
+
+#VSC3 {
+    text-align: center;
+    text-decoration: rgb(0, 183, 255);
+}
+
+#VSC5 {
+    text-decoration: darkblue;
+    text-align: center;
+}
+
+#VSC6 {
+    text-align: center;
+    text-decoration: coral;
+}
+
+
